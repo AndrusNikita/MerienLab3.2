@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MerienLab3</string>
     <string name="lab_3">Lab 3</string>
+    <string name="EnterX">Введіть Х</string>
+    <string name="EnterStep">Введіть крок</string>
+    <string name="EnterCount">Введіть границю</string>
+    <string name="loadbuttontext">Зчитати з файлу</string>
+    <string name="buttontext">Обчислити</string>
 </resources>
